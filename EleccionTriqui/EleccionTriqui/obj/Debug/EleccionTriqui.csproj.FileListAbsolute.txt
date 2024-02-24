@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\EleccionTriqui\EleccionTriqui\bin\Debug\EleccionTriqui.exe.config
+C:\Users\USUARIO\source\repos\EleccionTriqui\EleccionTriqui\bin\Debug\EleccionTriqui.exe
+C:\Users\USUARIO\source\repos\EleccionTriqui\EleccionTriqui\bin\Debug\EleccionTriqui.pdb
+C:\Users\USUARIO\source\repos\EleccionTriqui\EleccionTriqui\obj\Debug\EleccionTriqui.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\EleccionTriqui\EleccionTriqui\obj\Debug\EleccionTriqui.Form1.resources
+C:\Users\USUARIO\source\repos\EleccionTriqui\EleccionTriqui\obj\Debug\EleccionTriqui.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\EleccionTriqui\EleccionTriqui\obj\Debug\EleccionTriqui.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\EleccionTriqui\EleccionTriqui\obj\Debug\EleccionTriqui.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\EleccionTriqui\EleccionTriqui\obj\Debug\EleccionTriqui.exe
+C:\Users\USUARIO\source\repos\EleccionTriqui\EleccionTriqui\obj\Debug\EleccionTriqui.pdb
+C:\Users\USUARIO\source\repos\EleccionTriqui\EleccionTriqui\obj\Debug\Triqui.triqui.resources
